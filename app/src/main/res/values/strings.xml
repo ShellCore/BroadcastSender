@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Broadcast Sender</string>
+    <string name="main.button.sendfBroadcast">Enviar Broadcast</string>
 </resources>
